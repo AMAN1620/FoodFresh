@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140471092014",
+    "project_id": "foodfresh-f8ce7",
+    "storage_bucket": "foodfresh-f8ce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140471092014:android:71081809f1a2c638b0f0bf",
+        "android_client_info": {
+          "package_name": "com.example.cu.foodfresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140471092014-sib64jlk5g0nm2obc01fdmpp9h6lqphh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJYvq3UOJ3YuIFNE0Ks1ibyj1XuGJj3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140471092014-sib64jlk5g0nm2obc01fdmpp9h6lqphh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
